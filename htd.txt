@@ -1,0 +1,4 @@
+Rufus: https://rufus.akeo.ie/
+Windows 10: itellyou.cn
+CMD: slmgr /skms kms.03k.org
+     slmgr /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
